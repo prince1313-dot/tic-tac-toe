@@ -76,8 +76,8 @@ h1{
   padding: 0.7rem 1.5rem;
   font-size: 1.1rem;
   font-weight: bold;
-  background-color: #2563eb; /* ✅ blue from the start */
-  color: #ffffff;            /* ✅ white text */
+  background-color: #2563eb;
+  color: #ffffff;            
   border: none;
   border-radius: 8px;
   cursor: pointer;
